@@ -1,0 +1,30 @@
+.hotel {
+    padding-top: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    /*padding: 10px;*/
+}
+
+.flight {
+    width: 1000px;
+    margin: 0 auto;
+    /*padding: 10px;*/
+}
+
+.heading {
+    font-size: 25pt;
+}
+
+.hotelName {
+    font-size: 20pt;
+}
+
+.totalPrice {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: right;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+

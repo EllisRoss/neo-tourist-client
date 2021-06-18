@@ -1,0 +1,28 @@
+.wrapper {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.panel_items {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.price {
+    display: inline-block;
+    padding: 10px;
+}
+.stars {
+    display: inline-block;
+    padding: 10px;
+}
+
+.score{
+    display: inline-block;
+    padding: 10px;
+}
+
+.submit_button{
+    display: inline-block;
+    padding: 10px;
+}

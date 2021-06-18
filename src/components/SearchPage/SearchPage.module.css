@@ -1,0 +1,27 @@
+.navigation {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.buttons {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.left_button {
+    float: left;
+}
+
+.right_button {
+    text-align: right;
+}
+
+/*.progress_panel {*/
+/*    background-color: cadetblue;*/
+/*    color: #141414;*/
+/*    width: 1200px;*/
+/*    padding: 10px;*/
+/*    margin: 0 auto;*/
+/*    border-radius: 10px;*/
+/*}*/
